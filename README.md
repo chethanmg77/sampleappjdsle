@@ -78,4 +78,4 @@ Here are some of the features:
 - onDisable
 - ✅ onSettingUpdated
 
-### Internal State Management
+### Internal State Management hjhkjlk
